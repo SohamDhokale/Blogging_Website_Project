@@ -65,5 +65,10 @@ A full-featured blogging platform built with Django. This project allows users t
 - `static/` - Static files (CSS, JS, images)
 - `media/` - Uploaded media files
 
+## Screenshots
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](LICENSE) (or specify your license)

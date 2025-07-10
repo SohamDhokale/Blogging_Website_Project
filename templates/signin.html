@@ -103,6 +103,9 @@
                 <div class="input-group mt-1">
                     <input type="password" class="form-control" name="password" required>
                 </div>
+                <div class="mt-2 text-end">
+                    <a href="{% url 'password_reset' %}">Forgot Password?</a>
+                </div>
                 <button class="btn">Login</button>
                 <p class="para">Don't have an account ?<a href="{% url 'signup' %}"> Sign up</a></p>
             </form>
